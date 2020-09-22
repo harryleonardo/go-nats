@@ -1,0 +1,2 @@
+NATS_HOST: nats://localhost:4222
+PORT: 9090
